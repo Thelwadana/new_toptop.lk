@@ -1,0 +1,45 @@
+#Email1,#password{
+
+    border-color: #228b22;
+    border-radius: 5px;
+    background-color: white;
+    margin-left: auto;
+
+}
+.form-label{
+
+    
+    font-weight: 800;
+    font-size: larger;
+    color: rgb(110, 110, 110);
+}
+
+.title1{
+
+font-size: 17px;
+font-weight: 800;
+margin-bottom: 50px;
+color:#228b22 ;
+}
+.btn-primary{
+
+    margin-top: 20px;
+    background-color: #228b22;
+}
+.btn-primary:hover{
+
+    margin-top: 20px;
+    background-color: #003f00;
+}
+.sign_in_here{
+    
+    font-weight: 800;
+    font-size:medium;
+    color: rgb(100, 100, 100);
+
+}
+#udara{
+
+    margin-top: 25px;
+    color: rgb(255, 0, 0);
+}
